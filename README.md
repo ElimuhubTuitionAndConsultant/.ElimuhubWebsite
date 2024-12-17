@@ -7,6 +7,9 @@ Welcome to the official repository for **Elimuhub Education Consultants**! We sp
 - **Tuition Services**: Personalized tutoring for students of all ages.
 - **Homeschooling Support**: Resources and guidance for homeschooling families.
 - **Educational Resources**: Access to a variety of learning materials and tools.
+  
+<meta name="description" content="Elimuhub Education Consultants offers personalized tuition, homeschooling support, and educational resources to empower students and educators.">
+<meta name="keywords" content="education consultancy, tuition, homeschooling, educational resources, student support">
 
 ## Latest Updates
 
